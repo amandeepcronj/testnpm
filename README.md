@@ -1,2 +1,2 @@
 # testnpm
-test npm module 1
+test npm
